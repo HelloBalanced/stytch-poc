@@ -9,9 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@chakra-ui/react": "^1.8.7",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "@github/webauthn-json": "^1.0.2",
+    "@stytch/stytch-js": "^2.0.9-headless.beta.4",
+    "@stytch/stytch-react": "^3.0.8-headless.beta.4",
+    "axios": "^0.26.1",
+    "framer-motion": "^6",
+    "iron-session": "^6.1.1",
     "next": "12.1.2",
+    "next-auth": "^4.3.1",
     "react": "18.0.0",
-    "react-dom": "18.0.0"
+    "react-dom": "18.0.0",
+    "stytch": "^3.13.0"
   },
   "devDependencies": {
     "@types/node": "17.0.23",
